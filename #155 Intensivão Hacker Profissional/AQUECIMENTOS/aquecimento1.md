@@ -6,7 +6,7 @@
 ### Resultado
 Durante o intensivão, vamos aprender os seguintes tópicos:
 
-* Você vai entender como ser uma hacker profiffional
+* Você vai entender como ser uma hacker profissional
 
 1. Base de conhecimento
 2. Como um hacker profissional trabalha

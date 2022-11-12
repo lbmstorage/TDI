@@ -1,7 +1,5 @@
 #  #155 Intensivão Hacker Profissional - Aula 4
 
-  
-
 ##  # HACKEANDO um sistema
 
 Nessa aula vamos ver como o passo a passo de como invadir um sistema inteiro utilizando tudo que vimos nesse intensivão hacker profissional.
